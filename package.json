@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-cerebral",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cerebral minimal requirements for Javascript source",
   "main": "index.js",
   "scripts": {
