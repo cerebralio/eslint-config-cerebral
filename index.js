@@ -34,5 +34,6 @@ module.exports = {
       message: 'Please use Object.defineProperty instead.',
     }],
     "import/no-dynamic-require": 0,      // when this is used, usually it is for good reason
+    "no-path-concat": 0,                 // sorry, Windows support is not a priority
   }
 };
