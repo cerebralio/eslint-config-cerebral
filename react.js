@@ -3,6 +3,6 @@ module.exports = {
     require.resolve('./index'),
   ],
   rules: {
-    "arrow-parens": ["error", "never"],  // for react chained arrows are often used, better without parens
+    "arrow-parens": ["error", "as-needed"],  // for react chained arrows are often used, better without parens
   }
 };
