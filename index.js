@@ -36,8 +36,8 @@ module.exports = {
     "import/no-dynamic-require": 0,      // when this is used, usually it is for good reason
     "no-path-concat": 0,                 // sorry, Windows support is not a priority
     "comma-dangle": ["error", {          // dont want commas at end of function parameters
-      "arrays": "always",
-      "objects": "always",
+      "arrays": "always-multiline",
+      "objects": "always-multiline",
       "imports": "ignore",
       "exports": "ignore",
       "functions": "ignore",
